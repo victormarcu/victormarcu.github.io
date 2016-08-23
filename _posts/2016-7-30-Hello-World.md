@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hello world!
-description: Creating and using a Jekyll based website.
+description: Creating and running a Jekyll based website.
 tags: jekyll, markdown, github, optimization, sitebeam, speed, cookies, github, ruby, gem
 ---
 
