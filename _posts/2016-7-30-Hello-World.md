@@ -14,7 +14,7 @@ Setting the website up was a relatively straightforward process, more so once I 
 
 
 
-Now that I've got the site up and running the next step is customizing it. Jekyll takes my content written in Markdown and creates completely static HTML pages. I am already familiar with the _**Markdown**_ markup language so editing my blog posts will be an efortless thing to do.  
+Now that I've got the site up and running the next step is customizing it. Jekyll takes my content written in Markdown and creates completely static HTML pages. I am already familiar with the _**Markdown**_ markup language so editing my blog posts will be an effortless thing to do.  
 
 Adding images is starightforward...
 ![example image]({{ site.baseurl }}/images/ocV1u5R.jpg "portable TV from the '50s")  
