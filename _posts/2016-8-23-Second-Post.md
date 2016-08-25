@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Second Post!
-description: My second blog post in which I talk about nothing.
+description: Second blog post in which I talk about nothing.
 tags: no tags yet
 ---
 
 ### Second Post
 
-### Second blog post comming shortly (hopefully).
+### Second blog post coming shortly (hopefully).
 
 ****
