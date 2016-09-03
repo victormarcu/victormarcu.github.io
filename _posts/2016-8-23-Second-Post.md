@@ -7,6 +7,6 @@ tags: no tags yet
 
 ### Second Post
 
-### Second blog post coming shortly (hopefully).
+
 
 ****
